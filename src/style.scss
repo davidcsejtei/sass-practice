@@ -1,0 +1,11 @@
+$base-color: gray;
+
+body {
+  background: $base-color;
+}
+
+.header {
+  &-nav {
+    background: red;
+  }
+}
